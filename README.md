@@ -5,15 +5,7 @@
           <title>
           my first web
           </title>
-          <style>
-              button{
-                  color: white;
-                  background-color: black;
-                  width: 70px;
-                  height: 30px
-                 
-              }
-          </style>
+    
       </head>
       <body>
         <h1> Web development</h1>
