@@ -12,7 +12,7 @@
 			<li> DML : insert, update ve Delete ifadeleri</li>
 			<li> DDL: create ,alter ,truncate ve drop ifadeleri</li>
 		</ul>
-		<li style="font-size: 20px">PL/SQL</li>
+		<li style="font-size: 20px"> <h2>PL/SQL </h2></li>
 		<ul> 
 			<li> cursor , struct </li>
 			<li> Function</li>
