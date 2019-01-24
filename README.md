@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
 </head>
 <body>
 	<h1> Veritabanı yönetim sistemleri</h1>
