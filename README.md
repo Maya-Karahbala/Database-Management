@@ -1,60 +1,31 @@
-<!DOCTYPE html>
+
++<!DOCTYPE html>
 <html>
       <head>
-          
           <title>
           my first web
           </title>
-       
-     <style>
-     
-button{
-        color: white;
-        background-color: black;
-        width: 70px;
-        height: 30px
-}                          
-
-h2 {
-    background: 
-         linear-gradient(to right,#2F8AAB,#A9D4E4);
-               
-    text-shadow: 10px 5px 10px 
-    
-        
-}
-h1 {
-    background: 
-         linear-gradient(#2F8AAB,#A9D4E4);
-    
-        
-}
-/* effect all inhereted elemnts
-ul li{
-    background-color:forestgreen;
-    color: yellow
-}*/
-ul > li{
-    background-color:forestgreen;
-    color: yellow
-}
-     </style>
+          <style>
+              button{
+                  color: white;
+                  background-color: black;
+                  width: 70px;
+                  height: 30px
+                 
+              }
+          </style>
       </head>
       <body>
         <h1> Web development</h1>
         
           <ul>
-              <li> <a href="#"> home</a> </li>
+          <li> <a href="#"> home</a> </li>
               <li> <a href="#"> about</a> </li>
-               <ol>
-                     <li> <a href="#"> servises</a> </li>
-                     <li> <a href="#"> experts</a> </li>
-               </ol>
               <li> <a href="#"> cources</a> </li>
           </ul>
           <hr>
              <p>
-                This<b> website </b>  is a simple website yhat include almost all html tags in order to have experince eith <em>web development</em> made by <i>MAYA KARABALA</i>
+                This<b> website </b>  is a simple website that include almost all html tags in order to have experince with <em>web development</em> made by <i>MAYA KARABALA</i>
           </p>
           <table border="0"
                  cellPadding="10"
@@ -81,7 +52,7 @@ ul > li{
                    </tr>
           </table>
           <hr>
-          <h2> what this cource</h2>
+          <h2> why this cource</h2>
           <ol>
           <li> easy to learn </li>
           <li> fun</li>
