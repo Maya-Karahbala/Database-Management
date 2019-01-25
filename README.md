@@ -5,6 +5,7 @@
 </head>
 <body>
 	<h1> Veritabanı yönetim sistemleri</h1>
+	<p> Tüm örnekler oracle hr üzerinden yapılmış</p>
 	<ol>
 		<h2><li > SQL</li></h2>
 		<ul>
