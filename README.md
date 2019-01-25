@@ -23,7 +23,7 @@
 		</ul>
 		<h2><li >Varlık- İlişki Diyagramı (ERD)  </li></h2>
 		<ul>
-			<li> Proje olarak  Bakım yönetim sistemi Varlık- İlişki Diyagramı </li>
+			<li>   Bakım yönetim sistemi Varlık- İlişki Diyagramı </li>
 		</ul>
 	</ol>
 </body>
