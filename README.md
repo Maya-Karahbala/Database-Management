@@ -5,24 +5,25 @@
 </head>
 <body>
 	<h1> Veritabanı yönetim sistemleri</h1>
+	<p> Tüm örnekler oracle hr üzerinden yapılmış</p>
 	<ol>
-		<li style="font-weight:bold;"> SQL</li>
+		<h2><li > SQL</li></h2>
 		<ul>
 			<li> Select ifadesi</li>
 			<li> DML : insert, update ve Delete ifadeleri</li>
 			<li> DDL: create ,alter ,truncate ve drop ifadeleri</li>
 		</ul>
-		<li style="font-weight:bold;">PL/SQL</li>
-		<ul>
+		<h2><li > PL/SQL </li></h2>
+		<ul> 
 			<li> cursor , struct </li>
 			<li> Function</li>
 			<li> Procedure</li>
 			<li> Trigger</li>
 			<li> Package</li>
 		</ul>
-		<li style="font-weight:bold;">Varlık- İlişki Diyagramı (ERD)  </li>
+		<h2><li >Varlık- İlişki Diyagramı (ERD)  </li></h2>
 		<ul>
-			<li> Proje olarak  Bakım yönetim sistemi Varlık- İlişki Diyagramı </li>
+			<li>   Bakım yönetim sistemi Varlık- İlişki Diyagramı </li>
 		</ul>
 	</ol>
 </body>
