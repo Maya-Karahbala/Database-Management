@@ -23,7 +23,7 @@
 		</ul>
 		<h2><li >Varlık- İlişki Diyagramı (ERD)  </li></h2>
 		<ul>
-			<li>   Bakım yönetim sistemi Varlık- İlişki Diyagramı
+			<li>   Bakım yönetim sistemi Varlık- İlişki Diyagramı<br>
 			using <a href="https://www.lucidchart.com/">lucidchart tool</a></li>
 		</ul>
 	</ol>
