@@ -24,7 +24,8 @@
 		<h2><li >Varlık- İlişki Diyagramı (ERD)  </li></h2>
 		<ul>
 			<li>   Bakım yönetim sistemi Varlık- İlişki Diyagramı<br>
-			using <a href="https://www.lucidchart.com/">lucidchart tool</a></li>
+			using <a href="https://www.lucidchart.com/">lucidchart</a> and <a href="https://www.draw.io">Draw tool</a>  Tools</li>
+			
 		</ul>
 	</ol>
 </body>
