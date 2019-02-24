@@ -26,7 +26,6 @@
 			<li>   Bakım yönetim sistemi Varlık- İlişki Diyagramı<br>
 			using <a href="https://www.lucidchart.com/">lucidchart</a> and <a href="https://www.draw.io">Draw</a>                           Tools</li>
 			
-		 </ul>
-	</ol>
+	
 </body>
 </html>
